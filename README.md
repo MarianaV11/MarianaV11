@@ -6,7 +6,7 @@ Here you will see my learning at college and my personal projects.
 
 ## • My technologies
 [![Competências](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-)]
+)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaV11&layout=compact)](https://github.com/MarianaV11/github-readme-stats)
 
@@ -16,3 +16,5 @@ Here you will see my learning at college and my personal projects.
 )](https://www.linkedin.com/in/mariana-vieira11/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/mari_vca/)
+
+![Snake animation](https://github/MarianaV11/MarianaV11/blob/output/github-contribution-grid-snake.svg)
