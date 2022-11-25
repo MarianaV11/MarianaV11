@@ -1,6 +1,6 @@
 # Hello, I'm Mariana 😊
 ### I'm studying computer science at Unifor, first semester. I'm at the beginning, but loving a lot the course. 🤭
-Here you will see my learning at college and my projects.
+Here you will see my learning at college and my personal projects.
 
 ![Mari GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaV11&show_icons=true&theme=tokyonight)
 
