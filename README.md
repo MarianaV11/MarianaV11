@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DA70D6&size=40&center=true&vCenter=true&width=1000&lines=BE+WELCOME+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DB7093&size=40&center=true&vCenter=true&width=1000&lines=BE+WELCOME+:%29)](https://git.io/typing-svg)
 
 # Hello, I'm Mariana 😊
 ### I'm studying computer science at Unifor, first semester. I'm at the beginning, but loving a lot the course. 🤭
