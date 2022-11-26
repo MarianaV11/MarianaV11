@@ -1,8 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DA70D6&size=40&center=true&vCenter=true&width=1000&lines=BE+WELCOME+:%29)](https://git.io/typing-svg)
+
 # Hello, I'm Mariana 😊
 ### I'm studying computer science at Unifor, first semester. I'm at the beginning, but loving a lot the course. 🤭
 Here you will see my learning at college and my personal projects.
 
-![Mari GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaV11&show_icons=true&theme=tokyonight)
+![Mari GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaV11&show_icons=true&theme=dracula)
 
 ## • My technologies
 [![Competências](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
@@ -18,3 +20,5 @@ Here you will see my learning at college and my personal projects.
 )](https://www.instagram.com/mari_vca/)
 
  ![Snake animation](https://github.com/MarianaV11/MarianaV11/blob/output/github-contribution-grid-snake.svg)
+ 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=MarianaV11&theme=dracula&hide_border=true&area=true)
