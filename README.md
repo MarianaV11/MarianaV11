@@ -15,6 +15,8 @@ Here you will see my learning at college and my personal projects.
 ## • My technologies
 [![Competências](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )]()
+[![Competências](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
+)]()
 
 ## • My social media
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
