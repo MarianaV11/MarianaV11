@@ -7,10 +7,10 @@
 ### I'm studying computer science at Unifor, first semester. I'm at the beginning, but loving a lot the course. 🤭
 Here you will see my learning at college and my personal projects.
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarianaV11&show_icons=true&count_private=true&hide_border=true&title_color=6959CD&icon_color=DC143C&text_color=000000&bg_color=FFFFFF" alt="Mariana Vieira github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaV11&layout=compact&hide_border=true&title_color=6959CD&text_color=000000&bg_color=FFFFFF" />
-</div>
+![GitHubStats](https://github-readme-stats.vercel.app/api?username=MarianaV11&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaV11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## • My technologies
 [![Competências](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
