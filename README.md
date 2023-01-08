@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6959CD&size=40&center=true&vCenter=true&width=1000&lines=BE+WELCOME+😁)](https://git.io/typing-svg)
 
 # Hello, I'm Mariana
-### I'm studying computer science at Unifor, first semester. I'm at the beginning, but loving a lot the course. 🤭
+### I'm studying computer science at Unifor, second semester. I'm at the beginning, but loving a lot the course. 🤭
 Here you will see my learning at college and my personal projects.
 
 ![GitHubStats](https://github-readme-stats.vercel.app/api?username=MarianaV11&show_icons=true&theme=tokyonight)
