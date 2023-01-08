@@ -12,7 +12,7 @@ Here you will see my learning at college and my personal projects.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaV11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## • My technologies
+## • My skills
 [![Competências](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )]()
 [![Competências](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
