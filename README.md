@@ -12,15 +12,16 @@ Here you will see my learning at college and my personal projects.
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaV11&layout=compact&hide_border=true&title_color=836FFF&text_color=836FFF&bg_color=0d1117" />
 </div>
 
-
 ## • My skills
-[![Competências](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[![Skill](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )]()
-[![Competências](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )]()
-[![Competências](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 )]()
-[![Competências](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[![Skill](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+)]()
+[![Skill](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 )]()
 
 ## • My social media
