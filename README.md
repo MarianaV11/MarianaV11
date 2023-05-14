@@ -23,6 +23,8 @@ Here you will see my learning at college and my personal projects.
 )]()
 [![Skill](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 )]()
+[![Skill](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black
+)]()
 
 ## • My social media
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
