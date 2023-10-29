@@ -15,6 +15,10 @@ Here you will see my learning at college and my personal projects.
 ## • My skills
 [![Skill](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )]()
+[![Skill](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+)]()
+[![Skill](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=blue
+)]()
 [![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )]()
 [![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
@@ -26,12 +30,11 @@ Here you will see my learning at college and my personal projects.
 [![Skill](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black
 )]()
 
+
 ## • My social media
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/mariana-vieira11/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/mari_vca/)
-
-![Snake animation](https://github.com/MarianaV11/MarianaV11/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6959CD&height=120&section=footer"/>
