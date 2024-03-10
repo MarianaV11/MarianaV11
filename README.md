@@ -7,7 +7,7 @@
 ### I'm studying computer science at Unifor. I'm at the beginning, but loving a lot the course. 🤭
 Here you will see my learning at college and my personal projects.
 
-At the moment I work as C++ developer in the LSBD, laboratory of database and system at UFC.
+At the moment I work as C++ developer in the LSBD, laboratory of system and database at UFC.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarianaV11&show_icons=true&count_private=true&hide_border=true&title_color=836FFF&icon_color=EE82EE&text_color=FFFFFF&bg_color=0d1117" alt="Mariana Vieira github stats" /> 
