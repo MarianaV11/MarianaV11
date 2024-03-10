@@ -4,8 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6959CD&size=40&center=true&vCenter=true&width=1000&lines=BE+WELCOME+😁)](https://git.io/typing-svg)
 
 # Hello, I'm Mariana
-### I'm studying computer science at Unifor, second semester. I'm at the beginning, but loving a lot the course. 🤭
+### I'm studying computer science at Unifor. I'm at the beginning, but loving a lot the course. 🤭
 Here you will see my learning at college and my personal projects.
+
+At the moment I work as C++ developer in the LSBD, laboratory of database and system at UFC.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarianaV11&show_icons=true&count_private=true&hide_border=true&title_color=836FFF&icon_color=EE82EE&text_color=FFFFFF&bg_color=0d1117" alt="Mariana Vieira github stats" /> 
