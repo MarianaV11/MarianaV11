@@ -37,6 +37,6 @@ At the moment I work as C++ developer in the LSBD, laboratory of system and data
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/mariana-vieira11/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/mari_vca/)
+)](https://www.instagram.com/marianaa_vi/)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=footer"/>
