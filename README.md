@@ -7,12 +7,17 @@
 ### I'm studying computer science at Unifor. I'm near the end of the course and still loving it. 🤭
 Here you will see my learning at college and my personal projects.
 
-At the moment I work as a System Analyst at Profectum!
+---
 
-I integrate any systems using Python.
-I build API's with Python, PostgreSQL, FastAPI and other technologies.
-I build the Front End using React.TS and NEXT.TS.
-Finally, I'm a new server enthusiast!!!!
+At the moment I work as a <strong>System Analyst</strong> at Profectum!
+
+* I integrate any systems using Python.
+* I build API's with Python, PostgreSQL, FastAPI and other technologies.
+* I build the Front End using React.TS and NEXT.TS.
+
+<strong>Finally, I'm a new server enthusiast!!!!</strong>
+
+---
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarianaV11&show_icons=true&count_private=true&hide_border=true&title_color=B22222&icon_color=B22222&text_color=FFFFFF&bg_color=0d1117" alt="Mariana Vieira github stats" /> 
