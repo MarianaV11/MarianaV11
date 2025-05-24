@@ -4,10 +4,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=40&center=true&vCenter=true&width=1000&lines=BE+WELCOME+😁)](https://git.io/typing-svg)
 
 # Hello, I'm Mariana
-### I'm studying computer science at Unifor. I'm at the beginning, but loving a lot the course. 🤭
+### I'm studying computer science at Unifor. I'm near the end of the course and still loving it. 🤭
 Here you will see my learning at college and my personal projects.
 
-At the moment I work as C++ developer in the LSBD, laboratory of system and database at UFC.
+At the moment I work as a System Analyst at Profectum!
+
+I integrate any systems using Python.
+I build API's with Python, PostgreSQL, FastAPI and other technologies.
+I build the Front End using React.TS and NEXT.TS.
+Finally, I'm a new server enthusiast!!!!
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarianaV11&show_icons=true&count_private=true&hide_border=true&title_color=B22222&icon_color=B22222&text_color=FFFFFF&bg_color=0d1117" alt="Mariana Vieira github stats" /> 
