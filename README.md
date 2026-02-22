@@ -20,8 +20,7 @@ At the moment I work as a <strong>Junior Integration Analyst</strong> at Profect
 ---
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarianaV11&show_icons=true&count_private=true&hide_border=true&title_color=B22222&icon_color=B22222&text_color=FFFFFF&bg_color=0d1117" alt="Mariana Vieira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaV11&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=800000" />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MarianaV11&theme=buefy-dark&border_radius=8" alt="GitHub Streak" /></a>
 </div>
 
 ## • My skills
