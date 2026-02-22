@@ -9,7 +9,7 @@ Here you will see my learning at college and my personal projects.
 
 ---
 
-At the moment I work as a <strong>System Analyst</strong> at Profectum!
+At the moment I work as a <strong>Junior Integration Analyst</strong> at Profectum!
 
 * I integrate any systems using Python.
 * I build API's with Python, PostgreSQL, FastAPI and other technologies.
